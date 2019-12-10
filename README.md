@@ -1,5 +1,5 @@
 # Salient Object Detection
-Paul Vincent S. Nonat
-Mark Vincent Ty
-EE 298F - Advanced Deep Learning for Computer Vision
+Paul Vincent S. Nonat <br>
+Mark Vincent Ty <br>
+EE 298F - Advanced Deep Learning for Computer Vision <br>
 University of the Philippines - Diliman
