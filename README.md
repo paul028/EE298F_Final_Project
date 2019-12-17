@@ -33,6 +33,7 @@ University of the Philippines - Diliman
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/IoU%20Loss%20Graph.png)
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/MAE%20Graph.png)
 # Qualitative Result
-
+<br> Sample Results
+![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/Result.gif)
 # Comparison with Existing Models
 
