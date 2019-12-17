@@ -1,9 +1,11 @@
 import argparse
 import os
+#from dataset import get_loader
 from solver import Solver
 import glob
 from torchvision import transforms, utils
 import torchvision.transforms as standard_transforms
+
 from torch.utils.data import Dataset, DataLoader
 from own_dataloader import Rescale
 from own_dataloader import RescaleT
@@ -15,10 +17,10 @@ from own_dataloader import SalObjDataset
 
 #data_dir =   'C:/Users/tip/Documents/GitHub/Saliency_Dataset/dataset_test/DUTOMRON/'
 #data_dir =   'C:/Users/tip/Documents/GitHub/Saliency_Dataset/dataset_test/DUTS-TE/'
-#data_dir =   'C:/Users/tip/Documents/GitHub/Saliency_Dataset/dataset_test/ECSSD/'
+data_dir =   'C:/Users/tip/Documents/GitHub/Saliency_Dataset/dataset_test/ECSSD/'
 #data_dir =   'C:/Users/tip/Documents/GitHub/Saliency_Dataset/dataset_test/HKU-IS/'
 #data_dir =   'C:/Users/tip/Documents/GitHub/Saliency_Dataset/dataset_test/PASCALS/'
-data_dir =   'C:/Users/tip/Documents/GitHub/Saliency_Dataset/dataset_test/SOD/'
+#data_dir =   'C:/Users/tip/Documents/GitHub/Saliency_Dataset/dataset_test/SOD/'
 #tra_image_dir = 'DUTS-TR/DUTS-TR-Image/'
 #tra_label_dir = 'DUTS-TR/DUTS-TR-Mask/'
 test_image_dir = 'Imgs/'
@@ -35,17 +37,17 @@ trained_model='D:/nonat project/Experiment 1/weights/Experiment1.pth'
 
 #test_folder='D:/nonat project/Experiment 1/weights/test/DUTOMRON TEST'
 #test_folder='D:/nonat project/Experiment 1/weights/test/DUTS TEST'
-#test_folder='D:/nonat project/Experiment 1/weights/test/ECCSD TEST'
+test_folder='D:/nonat project/Experiment 1/weights/test/ECCSD TEST'
 #test_folder='D:/nonat project/Experiment 1/weights/test/HKU-IS TEST'
 #test_folder='D:/nonat project/Experiment 1/weights/test/PASCAL TEST'
-test_folder='D:/nonat project/Experiment 1/weights/test/SOD TEST'
+#test_folder='D:/nonat project/Experiment 1/weights/test/SOD TEST'
 
 #output_path='D:/nonat project/Experiment 1/Experiment 1 Predictions/DUTS OMRON Saliency Map Prediction/'
 #output_path='D:/nonat project/Experiment 1/Experiment 1 Predictions/DUTS Saliency Map Prediction/'
-#output_path='D:/nonat project/Experiment 1/Experiment 1 Predictions/ECCSD Saliency Map Prediction/'
+output_path='D:/nonat project/Experiment 1/Experiment 1 Predictions/ECCSD Saliency Map Prediction/'
 #output_path='D:/nonat project/Experiment 1/Experiment 1 Predictions/HKU-IS Saliency Map Prediction/'
 #output_path='D:/nonat project/Experiment 1/Experiment 1 Predictions/PASCAL Saliency Map Prediction/'
-output_path='D:/nonat project/Experiment 1/Experiment 1 Predictions/SOD Saliency Map Prediction/'
+#output_path='D:/nonat project/Experiment 1/Experiment 1 Predictions/SOD Saliency Map Prediction/'
 def main(config):
 
     if config.mode == 'train':
