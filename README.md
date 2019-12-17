@@ -40,8 +40,18 @@ University of the Philippines - Diliman
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201.2%20Training%20Graph/EE%20298F%20Final%20Project%20-%20Presentation%20(14).png)
 
 # Dataset Used for Training and Evaluation
+<br> Below are the Link for the dataset used in this model. Kindly site the mentioned paper if you inted to use these dataset.
 
 <br>[DUTS Image Dataset](https://drive.google.com/file/d/1mdsP9Dq5e0C6US0h0HAajxfzhCWJZYHT/view?usp=sharing)
+
+@inproceedings{wang2017,
+title={Learning to Detect Salient Objects with Image-level Supervision},
+author={Wang, Lijun and Lu, Huchuan and Wang, Yifan and Feng, Mengyang 
+and Wang, Dong, and Yin, Baocai and Ruan, Xiang}, 
+booktitle={CVPR},
+year={2017}
+}
+
 <br>[DUT-OMRON Image Dataset](https://drive.google.com/file/d/1iBT1jRlNKv7r3FfE2LsHSjJ1-MKt4qbi/view?usp=sharing)
 <br>[Extended Complex Scene Saliency Dataset (ECSSD)](https://drive.google.com/file/d/1kIUO6HyGFpHxRMwkCEJcHPlK-hmWLAWF/view?usp=sharing)
 <br>[HKU-IS Dataset](https://drive.google.com/file/d/1RXFKl95yyyNmXnYJU35Y114KLzK4X0dZ/view?usp=sharing)
