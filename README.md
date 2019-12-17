@@ -8,7 +8,15 @@ University of the Philippines - Diliman
 <br>Feature Aggregated Network
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/EE%20298F%20Final%20Project%20-%20Presentation%20(9).png)
 # Loss Function
-<br>
+<br> Cross Entropy Loss
+![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/lce.gif)
+
+<br>IoU Loss
+![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/lce.gif)
+
+<br>Fussion Loss
+![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/lce.gif)
+
 # Evaluation Metric
 <br>
 
