@@ -39,7 +39,14 @@ University of the Philippines - Diliman
 <br> Result
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201.2%20Training%20Graph/EE%20298F%20Final%20Project%20-%20Presentation%20(14).png)
 
-#Dataset Used for Training and Evaluation
+# Dataset Used for Training and Evaluation
+
+[DUTS Image Dataset](https://docs.google.com/presentation/d/1ac6WizWm0VO3UHcmGJgZT5H5EVGUIiZwCOOgxN0e7sU/edit?usp=sharing)
+[DUTS Image Dataset](https://docs.google.com/presentation/d/1ac6WizWm0VO3UHcmGJgZT5H5EVGUIiZwCOOgxN0e7sU/edit?usp=sharing)
+[DUTS Image Dataset](https://docs.google.com/presentation/d/1ac6WizWm0VO3UHcmGJgZT5H5EVGUIiZwCOOgxN0e7sU/edit?usp=sharing)
+[DUTS Image Dataset](https://docs.google.com/presentation/d/1ac6WizWm0VO3UHcmGJgZT5H5EVGUIiZwCOOgxN0e7sU/edit?usp=sharing)
+[DUTS Image Dataset](https://docs.google.com/presentation/d/1ac6WizWm0VO3UHcmGJgZT5H5EVGUIiZwCOOgxN0e7sU/edit?usp=sharing)
+[DUTS Image Dataset](https://docs.google.com/presentation/d/1ac6WizWm0VO3UHcmGJgZT5H5EVGUIiZwCOOgxN0e7sU/edit?usp=sharing)
 <br>DUTS Image Dataset
 <br>DUT-OMRON Image Dataset
 <br>Extended Complex Scene Saliency Dataset (ECSSD)
