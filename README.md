@@ -12,10 +12,10 @@ University of the Philippines - Diliman
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/lce.gif)
 
 <br>IoU Loss
-![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/lce.gif)
+![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/liou.gif)
 
 <br>Fussion Loss
-![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/lce.gif)
+![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/lfuse.gif)
 
 # Evaluation Metric
 <br>
