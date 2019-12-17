@@ -68,5 +68,6 @@
 <br>[PASCAL-S](https://drive.google.com/file/d/1oaB4TYuozemKI9eqs6NK-9A8ED6t7OKz/view?usp=sharing)
 <br>[SOD Dataset](https://drive.google.com/file/d/1Zj1yV1ILTkfidO7ABge57qA513zNZRyR/view?usp=sharing)
 
-
-
+# Link to Presentation
+<br>[You Tube Link](https://www.youtube.com/watch?v=aXTMk4uwJqU&feature=youtu.be&fbclid=IwAR1oA_XWo_d4PtcdujrbcHYEozQCq21g56YSpr-Fxolzk8AC-D8TtQXoCeM)
+<br>[Slides](https://docs.google.com/presentation/d/1UZaVCmaVJl1sib-rPsstL9H0vRVqAuWsZi6HWPnZk8c/edit?usp=sharing)
