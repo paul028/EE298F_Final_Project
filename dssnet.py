@@ -4,7 +4,7 @@ from torch.nn import init
 
 # vgg choice
 base = {'dss': [64, 64, 'M', 128, 128, 'M', 256, 256, 256, 'M', 512, 512, 512, 'M', 512, 512, 512, 'M']}
-# extend vgg choice --- follow the paper, you can change it
+
 extra = {'dss': [(64, 128, 3, [8, 16, 32, 64]), (128, 128, 3, [4, 8, 16, 32]), (256, 256, 5, [8, 16]),
                  (512, 256, 5, [4, 8]), (512, 512, 5, []), (512, 512, 7, [])]}
 connect = {'dss': [[2, 3, 4, 5], [2, 3, 4, 5], [4, 5], [4, 5], [], []]}
@@ -90,8 +90,7 @@ def extra_layer(vgg, cfg):
     return vgg, feat_layers, concat_layers
 
 
-# DSS network
-# Note: if you use other backbone network, please change extract
+#VGG
 class DSS(nn.Module):
     def __init__(self, base, feat_layers, concat_layers, connect, extract=[3, 8, 15, 22, 29], v2=True):
         super(DSS, self).__init__()
@@ -111,28 +110,27 @@ class DSS(nn.Module):
             if k in self.extract:
                 y.append(self.feat[num](x))
                 num += 1
-        # side output
+
         y.append(self.feat[num](self.pool(x)))
         for i, k in enumerate(range(len(y))):
             back.append(self.comb[i](y[i], [y[j] for j in self.connect[i]]))
-        # fusion map
+
         if self.v2:
-            # version2: learning fusion
+
             back.append(self.fuse(back))
         else:
-            # version1: mean fusion
+
             back.append(torch.cat(back, dim=1).mean(dim=1, keepdim=True))
-        # add sigmoid
+
         for i in back: prob.append(torch.sigmoid(i))
         return prob
 
 
-# build the whole network
+
 def build_model():
     return DSS(*extra_layer(vgg(base['dss'], 3), extra['dss']), connect['dss'])
 
 
-# weight init
 def xavier(param):
     init.xavier_uniform_(param)
 
@@ -153,5 +151,3 @@ if __name__ == '__main__':
     out = net(img)
     k = [out[x] for x in [1, 2, 3, 6]]
     print(len(k))
-    # for param in net.parameters():
-    #     print(param)
