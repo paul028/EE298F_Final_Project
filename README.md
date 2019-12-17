@@ -36,4 +36,7 @@ University of the Philippines - Diliman
 <br> Sample Results
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/Result.gif)
 # Comparison with Existing Models
+<br> Result
+![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201.2%20Training%20Graph/EE%20298F%20Final%20Project%20-%20Presentation%20(14).png)
+
 
