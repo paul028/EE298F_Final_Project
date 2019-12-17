@@ -18,7 +18,7 @@ University of the Philippines - Diliman
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/lfuse.gif)
 
 # Evaluation Metric
-<br>MAE
+<br>_
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/mae.gif)
 
 # Experiment1 - CE
@@ -28,7 +28,7 @@ University of the Philippines - Diliman
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/MAE%20Graph.png)
 
 # Experiment2 - IoU
-<br>a
+<br>_
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/Average%20IoU%20per%20Epoch.png)
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/IoU%20Loss%20Graph.png)
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/MAE%20Graph.png)
