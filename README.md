@@ -4,18 +4,18 @@ Mark Vincent Ty <br>
 EE 298F - Advanced Deep Learning for Computer Vision <br>
 University of the Philippines - Diliman
 
-#Our Salient Object Detection Network
+# Our Salient Object Detection Network
 <br>
-#Loss Function
+# Loss Function
 <br>
-#Evaluation Metric
+# Evaluation Metric
 <br>
 
-#Experiments
+# Experiments
 <br> Experiment 1 - CE
 <br> Experiment 2 - IoU
 
-#Qualitative Result
+# Qualitative Result
 
-#Comparison with Existing Models
+# Comparison with Existing Models
 
