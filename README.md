@@ -18,6 +18,9 @@
 <br>Fussion Loss
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/lfuse.gif)
 
+# For BASNet evaluation and structural architecture notebook, see
+![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/BASNetStructEvaluation/evaluation_notebook.ipynb)
+
 # Evaluation Metric
 <br>_
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/mae.gif)
@@ -62,7 +65,7 @@
         year={2013},
         organization={IEEE}
         }
-        
+
 <br>[Extended Complex Scene Saliency Dataset (ECSSD)](https://drive.google.com/file/d/1kIUO6HyGFpHxRMwkCEJcHPlK-hmWLAWF/view?usp=sharing)
 <br>[HKU-IS Dataset](https://drive.google.com/file/d/1RXFKl95yyyNmXnYJU35Y114KLzK4X0dZ/view?usp=sharing)
 <br>[PASCAL-S](https://drive.google.com/file/d/1oaB4TYuozemKI9eqs6NK-9A8ED6t7OKz/view?usp=sharing)
