@@ -44,13 +44,12 @@ University of the Philippines - Diliman
 
 <br>[DUTS Image Dataset](https://drive.google.com/file/d/1mdsP9Dq5e0C6US0h0HAajxfzhCWJZYHT/view?usp=sharing)
 
-@inproceedings{wang2017,
-title={Learning to Detect Salient Objects with Image-level Supervision},
-author={Wang, Lijun and Lu, Huchuan and Wang, Yifan and Feng, Mengyang 
-and Wang, Dong, and Yin, Baocai and Ruan, Xiang}, 
-booktitle={CVPR},
-year={2017}
-}
+        @inproceedings{wang2017,
+           author = {Wang, Lijun and Lu, Huchuan and Wang, Yifan and Feng, Mengyang and Wang, Dong and Yin, Baocai and Ruan, Xiang},
+           title = {Learning to Detect Salient Objects With Image-Level Supervision},
+           booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+           year = {2017}
+        }
 
 <br>[DUT-OMRON Image Dataset](https://drive.google.com/file/d/1iBT1jRlNKv7r3FfE2LsHSjJ1-MKt4qbi/view?usp=sharing)
 <br>[Extended Complex Scene Saliency Dataset (ECSSD)](https://drive.google.com/file/d/1kIUO6HyGFpHxRMwkCEJcHPlK-hmWLAWF/view?usp=sharing)
