@@ -18,7 +18,8 @@ University of the Philippines - Diliman
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/lfuse.gif)
 
 # Evaluation Metric
-<br>
+<br>MAE
+![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/mae.gif)
 
 # Experiments
 <br> Experiment 1 - CE
