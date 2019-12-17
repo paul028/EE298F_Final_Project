@@ -41,17 +41,12 @@ University of the Philippines - Diliman
 
 # Dataset Used for Training and Evaluation
 
-<br>[DUTS Image Dataset](https://docs.google.com/presentation/d/1ac6WizWm0VO3UHcmGJgZT5H5EVGUIiZwCOOgxN0e7sU/edit?usp=sharing)
-<br>[DUTS Image Dataset](https://docs.google.com/presentation/d/1ac6WizWm0VO3UHcmGJgZT5H5EVGUIiZwCOOgxN0e7sU/edit?usp=sharing)
-<br>[DUTS Image Dataset](https://docs.google.com/presentation/d/1ac6WizWm0VO3UHcmGJgZT5H5EVGUIiZwCOOgxN0e7sU/edit?usp=sharing)
-<br>[DUTS Image Dataset](https://docs.google.com/presentation/d/1ac6WizWm0VO3UHcmGJgZT5H5EVGUIiZwCOOgxN0e7sU/edit?usp=sharing)
-<br>[DUTS Image Dataset](https://docs.google.com/presentation/d/1ac6WizWm0VO3UHcmGJgZT5H5EVGUIiZwCOOgxN0e7sU/edit?usp=sharing)
-<br>[DUTS Image Dataset](https://docs.google.com/presentation/d/1ac6WizWm0VO3UHcmGJgZT5H5EVGUIiZwCOOgxN0e7sU/edit?usp=sharing)
-<br>DUTS Image Dataset
-<br>DUT-OMRON Image Dataset
-<br>Extended Complex Scene Saliency Dataset (ECSSD)
-<br>HKU-IS Dataset
-<br>
-<br>SOD Dataset
+<br>[DUTS Image Dataset](https://drive.google.com/file/d/1mdsP9Dq5e0C6US0h0HAajxfzhCWJZYHT/view?usp=sharing)
+<br>[DUT-OMRON Image Dataset](https://drive.google.com/file/d/1iBT1jRlNKv7r3FfE2LsHSjJ1-MKt4qbi/view?usp=sharing)
+<br>[Extended Complex Scene Saliency Dataset (ECSSD)](https://drive.google.com/file/d/1kIUO6HyGFpHxRMwkCEJcHPlK-hmWLAWF/view?usp=sharing)
+<br>[HKU-IS Dataset](https://drive.google.com/file/d/1RXFKl95yyyNmXnYJU35Y114KLzK4X0dZ/view?usp=sharing)
+<br>[PASCAL-S](https://drive.google.com/file/d/1oaB4TYuozemKI9eqs6NK-9A8ED6t7OKz/view?usp=sharing)
+<br>[SOD Dataset](https://drive.google.com/file/d/1Zj1yV1ILTkfidO7ABge57qA513zNZRyR/view?usp=sharing)
+
 
 
