@@ -1,0 +1,6 @@
+**.pyc
+test_data/test_results/*.png
+sometests/*.jpg
+**.png
+saved_models/
+saved_models0/
