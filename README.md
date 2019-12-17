@@ -23,8 +23,11 @@ University of the Philippines - Diliman
 
 # Experiments
 <br> Experiment 1 - CE
-<br> Experiment 2 - IoU
 
+<br> Experiment 2 - IoU
+![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/Average%20IoU%20per%20Epoch.png)
+![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/IoU%20Loss%20Graph.png)
+![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/MAE%20Graph.png)
 # Qualitative Result
 
 # Comparison with Existing Models
