@@ -19,7 +19,7 @@
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/lfuse.gif)
 
 # For BASNet evaluation and structural architecture notebook, see
-![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/BASNetStructEvaluation/evaluation_notebook.ipynb)
+<br>https://github.com/paul028/EE298F_Final_Project/blob/master/BASNetStructEvaluation/evaluation_notebook.ipynb
 
 # Evaluation Metric
 <br>_
