@@ -39,4 +39,12 @@ University of the Philippines - Diliman
 <br> Result
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201.2%20Training%20Graph/EE%20298F%20Final%20Project%20-%20Presentation%20(14).png)
 
+#Dataset Used for Training and Evaluation
+<br>DUTS Image Dataset
+<br>DUT-OMRON Image Dataset
+<br>Extended Complex Scene Saliency Dataset (ECSSD)
+<br>HKU-IS Dataset
+<br>
+<br>SOD Dataset
+
 
