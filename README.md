@@ -22,13 +22,13 @@ University of the Philippines - Diliman
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/mae.gif)
 
 # Experiment1 - CE
-<br>  
+<br>a
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/Cross%20Entropy%20Loss%20Graph.png)
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/Average%20CE%20Loss%20per%20epoch.png)
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/MAE%20Graph.png)
 
-# Experiment1 - IoU
-<br>  
+# Experiment2 - IoU
+<br>a
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/Average%20IoU%20per%20Epoch.png)
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/IoU%20Loss%20Graph.png)
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/MAE%20Graph.png)
