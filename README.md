@@ -1,8 +1,9 @@
 # Feature-map Aggregated Salient Object Detection
-Paul Vincent S. Nonat <br>
-Mark Vincent Ty <br>
-EE 298F - Advanced Deep Learning for Computer Vision <br>
-University of the Philippines - Diliman
+<br> Paul Vincent S. Nonat
+<br> Mark Vincent Ty
+<br> EE 298F - Advanced Deep Learning for Computer Vision
+<br> Electrical and Electronics Engineering Institute
+<br> University of the Philippines, Diliman
 
 # Our Salient Object Detection Network
 <br>Feature Aggregated Network
