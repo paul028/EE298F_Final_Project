@@ -52,6 +52,16 @@ University of the Philippines - Diliman
         }
 
 <br>[DUT-OMRON Image Dataset](https://drive.google.com/file/d/1iBT1jRlNKv7r3FfE2LsHSjJ1-MKt4qbi/view?usp=sharing)
+
+        @inproceedings{yang2013saliency,
+        title={Saliency detection via graph-based manifold ranking},
+        author={Yang, Chuan and Zhang, Lihe and Lu, Huchuan, Ruan, Xiang and Yang, Ming-Hsuan},
+        booktitle={Computer Vision and Pattern Recognition (CVPR), 2013 IEEE Conference on},
+        pages={3166--3173},
+        year={2013},
+        organization={IEEE}
+        }
+        
 <br>[Extended Complex Scene Saliency Dataset (ECSSD)](https://drive.google.com/file/d/1kIUO6HyGFpHxRMwkCEJcHPlK-hmWLAWF/view?usp=sharing)
 <br>[HKU-IS Dataset](https://drive.google.com/file/d/1RXFKl95yyyNmXnYJU35Y114KLzK4X0dZ/view?usp=sharing)
 <br>[PASCAL-S](https://drive.google.com/file/d/1oaB4TYuozemKI9eqs6NK-9A8ED6t7OKz/view?usp=sharing)
