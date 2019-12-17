@@ -5,8 +5,7 @@ EE 298F - Advanced Deep Learning for Computer Vision <br>
 University of the Philippines - Diliman
 
 # Our Salient Object Detection Network
-<br>Network
-![alt text](https://github.com/paul028/EE298_CoE197-Project2/blob/master/Generator.png)
+<br>Feature Aggregated Network
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/EE%20298F%20Final%20Project%20-%20Presentation%20(9).png)
 # Loss Function
 <br>
