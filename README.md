@@ -6,6 +6,7 @@ University of the Philippines - Diliman
 
 # Our Salient Object Detection Network
 <br>
+![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/EE%20298F%20Final%20Project%20-%20Presentation%20(9).png)
 # Loss Function
 <br>
 # Evaluation Metric
