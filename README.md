@@ -41,7 +41,7 @@
 ![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/Experiment%201Training%20Graph/Result.gif)
 # Comparison with Existing Models
 <br> _
-![alt text](https://github.com/paul028/EE298F_Final_Project/blob/master/BASNetStructEvaluation/EvaluationResults.png)
+![alt text](https://github.com/paul028/EE298F_Final_Project/EvaluationResultsFinal.png)
 
 # Dataset Used for Training and Evaluation
 <br> Below are the Link for the dataset used in this model. Kindly site the mentioned paper if you inted to use these dataset.
